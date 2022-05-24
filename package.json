@@ -1,0 +1,35 @@
+{
+  "name": "react-redux-from-scratch",
+  "version": "1.0.0",
+  "description": "I learned how to use redux to manage an application's state on freecodecamp.org, which uses sandboxes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brndnknn/react-redux-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "brandon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brndnknn/react-redux-from-scratch/issues"
+  },
+  "homepage": "https://github.com/brndnknn/react-redux-from-scratch#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.0",
+    "@babel/preset-env": "^7.18.0",
+    "@babel/preset-react": "^7.17.12",
+    "babel-loader": "^8.2.5",
+    "css-loader": "^6.7.1",
+    "html-webpack-plugin": "^5.5.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
